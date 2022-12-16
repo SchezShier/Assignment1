@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">e-Zakat</string>
+    <string name="copyright">Copyright &#169; 2022 Insyirah</string>
+    <string name="group_text">Group : RCS2405B</string>
+    <string name="matric_text">Matric Number : 2020483304</string>
+    <string name="code_text">Programme Code : CS240</string>
+    <string name="hyperlink">Please click on <a href="https://github.com/SchezShier/Assignment1.git">this link</a>to view the source code</string>
+</resources>
